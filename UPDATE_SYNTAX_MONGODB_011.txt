@@ -1,0 +1,22 @@
+Tugas Langkah 16
+
+
+1. db.items.update ({_id: ObjectId("5f87097137f5eb321da79ddd")}, { $set: {store_name: "Allphone_jkt" } })
+
+2. db.items.update ({_id: ObjectId("5f87094137f5eb321da79ddc")}, { $set: {store_name: "Aufaa_store18" } })
+
+3. db.items.update ({_id: ObjectId("5f87097137f5eb321da79ddd")}, { $set: {store_name: "Allphone_jkt" } })
+
+4. db.items.update ({_id: ObjectId("5f87098037f5eb321da79dde")}, { $set: {store_name: "cozyme3" } })
+
+5. db.items.update ({_id: ObjectId("5f87099837f5eb321da79ddf")}, { $set: {store_name: "Healthy_OK" } })
+
+6. db.items.update ({_id: ObjectId("5f8709c737f5eb321da79de0")}, { $set: {store_name: "Healthy_OK" } })
+
+7. db.items.update ({_id: ObjectId("5f8709e537f5eb321da79de2")}, { $set: {store_name: "cozyme3" } })
+
+8. db.items.update ({_id: ObjectId("5f870a2037f5eb321da79de3")}, { $set: {store_name: "Best_Com" } })
+
+9. db.items.update ({_id: ObjectId("5f870a2f37f5eb321da79de4")}, { $set: {store_name: "Best_Com" } })
+
+10. db.items.update ({_id: ObjectId("5f8709d637f5eb321da79de1")}, { $set: {store_name: "Healthy_OK" } })
